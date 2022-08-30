@@ -8,7 +8,7 @@ The `model_evaluation` folder contains an rst file.
 ## Table of contents
 
 * [feature importance](https://github.com/kklein/documentation_test/blob/main/feature_importances/page1.md)
-* [model evaluation](https://github.com/kklein/documentation_test/blob/main/model_evaluation/page1.md)
+* [model evaluation](https://github.com/kklein/documentation_test/blob/main/model_evaluation/page1.rst)
 
 ## How does working on it look like?
 On the one hand, one would be able to edit the source text directly on GitHub. GitHub provides a 'Preview' tab:

@@ -838,3 +838,20 @@ letters (``A``) as well as roman numerals (``IV``) and alternate
 punctuation with parentheses ( ``(b)`` or ``xiv)`` ) are recognized, and
 sequences starting with numbers other than 1 (or roman numeral I or
 letter A) have the actual starting number or letter preserved in output.
+
+
+Math
+----
+
+.. math::
+   :name: Fourier transform
+
+   (\mathcal{F}f)(y)
+    = \frac{1}{\sqrt{2\pi}^{\ n}}
+      \int_{\mathbb{R}^n} f(x)\,
+      e^{-\mathrm{i} y \cdot x} \,\mathrm{d} x.
+
+.. math::
+
+ a &= (x + y)^2         &  b &= (x - y)^2 \\
+   &= x^2 + 2xy + y^2   &    &= x^2 - 2xy + y^2

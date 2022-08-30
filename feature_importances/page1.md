@@ -18,7 +18,7 @@ Alternatively, you can use the ```math code block syntax to display a math expre
 \sqrt{3}
 ```
 
-Super fancy diagram made with mermaid (not an image file):
+Very fancy diagram made with mermaid (not an image file):
 
 ```mermaid
 graph TD;
