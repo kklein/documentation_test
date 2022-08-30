@@ -29,4 +29,4 @@ Other plug-ins, e.g. [Markdown + Math](https://marketplace.visualstudio.com/item
 ## RST files
 * GitHub also support editing and preview for rst files.
   * Yet, the preview doesn't render math properly, see [issue](https://github.com/github/markup/issues/83) :(
-* It should be even easier to find extensions rendering rst files since it as a more 'standard' setup than markdown + LaTeX.
+* It should be even easier to find extensions rendering rst files since it is more of a 'standard' setup than markdown + LaTeX.
