@@ -845,11 +845,15 @@ Math
 
 
 .. math::
+  
+  \\lambda
 
-   (\mathcal{F}f)(y)
+.. math::
+
+    (\mathcal{F}f)(y)
     = \frac{1}{\sqrt{2\pi}^{\ n}}
-      \int_{\mathbb{R}^n} f(x)\,
-      e^{-\mathrm{i} y \cdot x} \,\mathrm{d} x.
+    \int_{\mathbb{R}^n} f(x)\,
+    e^{-\mathrm{i} y \cdot x} \,\mathrm{d} x.
 
 .. math::
 
