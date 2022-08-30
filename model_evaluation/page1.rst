@@ -843,8 +843,8 @@ letter A) have the actual starting number or letter preserved in output.
 Math
 ----
 
+
 .. math::
-   :name: Fourier transform
 
    (\mathcal{F}f)(y)
     = \frac{1}{\sqrt{2\pi}^{\ n}}
@@ -853,5 +853,5 @@ Math
 
 .. math::
 
- a &= (x + y)^2         &  b &= (x - y)^2 \\
+   a &= (x + y)^2         &  b &= (x - y)^2 \\
    &= x^2 + 2xy + y^2   &    &= x^2 - 2xy + y^2
