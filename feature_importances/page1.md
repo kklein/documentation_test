@@ -17,3 +17,13 @@ Alternatively, you can use the ```math code block syntax to display a math expre
 ```math
 \sqrt{3}
 ```
+
+Super fancy diagram made with mermaid (not an image file):
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
